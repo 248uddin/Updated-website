@@ -72,7 +72,7 @@ const About = () => {
     >
       Hey there! I’m Qasim Naeemuddin,
 
-I’m a third-year Computer Science student at Wilfrid Laurier University. I recently completed a 4-month internship at Schaeffler Aerospace in Production Support, 
+I’m a third-year Computer Science student at Wilfrid Laurier University. I recently completed a 4-month internship at Schaeffler Aerospace as a Systems Engineering Intern, 
 where I worked with precision measurement tools, Excel, and Python to improve quality and streamline processes. 
 Previously, I worked at Majorel as a Technical Support Specialist, resolving customer inquiries, optimizing workflows in Salesforce and Jira, and improving overall efficiency.
 
