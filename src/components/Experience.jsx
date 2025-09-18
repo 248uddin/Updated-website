@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 
    const Schaeffler = {
-  title: "Aerospace Production Support",
+  title: "Systems Engineering Intern",
   subHeading: "May 2025 - Aug 2025 ",
   description: [
     "Measured 250+ aerospace components using Prismo CMM, ensuring sub-millimeter precision.",
