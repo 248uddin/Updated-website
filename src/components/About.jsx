@@ -5,10 +5,10 @@ const About = () => {
     title: "Languages",
     subHeading: "Technologies I use to build user interfaces",
     content: [
-      { icon: "public/pythonLogo.png", title: "Python"},
-      { icon: "public/jsLogo.png", title: "JavaScript"},
-      { icon: "public/reactLogo.png", title: "React"},
-      { icon: "public/javaLogo.png", title: "Java"}
+      { icon: "/pythonLogo.png", title: "Python"},
+      { icon: "/jsLogo.png", title: "JavaScript"},
+      { icon: "/reactLogo.png", title: "React"},
+      { icon: "/javaLogo.png", title: "Java"}
       
     ]
   };
@@ -17,10 +17,10 @@ const About = () => {
     title: "Frameworks & Tools",
     subHeading: "Technologies I use to build servers & databases",
     content: [
-      { icon: "public/firebaseLogo.png", title: "Firebase" },
-      { icon: "public/nodeLogo.png", title: "Node.js" },
-      { icon: "public/mongodbLogo.png", title: "MongoDB" },
-      { icon: "public/jira.png", title: "Jira"}
+      { icon: "/firebaseLogo.png", title: "Firebase" },
+      { icon: "/nodeLogo.png", title: "Node.js" },
+      { icon: "/mongodbLogo.png", title: "MongoDB" },
+      { icon: "/jira.png", title: "Jira"}
     ]
   };
 
